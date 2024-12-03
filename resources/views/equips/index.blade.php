@@ -1,15 +1,15 @@
 @extends('layouts.app')
 
-@section('title', "Guia d'Equips")
+@section('title', "Guia d'DEPLOYMENTS")
 
 @section('content')
-<h1 class="text-3xl font-bold text-blue-800 mb-6">Guia d'Equips</h1>
+<h1 class="text-3xl font-bold text-blue-800 mb-6">Guia d'DEPLOYMENTS</h1>
 <table class="w-full border-collapse border border-gray-300">
     <thead class="bg-gray-200">
     <tr>
-        <th class="border border-gray-300 p-2">Nom</th>
-        <th class="border border-gray-300 p-2">Estadi</th>
-        <th class="border border-gray-300 p-2">Títols</th>
+        <th class="border border-gray-300 p-2">DEPLOYMENTS</th>
+        <th class="border border-gray-300 p-2">DEPLOYMENTS</th>
+        <th class="border border-gray-300 p-2">DEPLOYMENTS</th>
     </tr>
     </thead>
     <tbody>
