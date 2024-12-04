@@ -31,7 +31,16 @@ task('vite:build', function () {
     run('cd {{release_path}} && npm install && npm run build');
 });
 
+# Declaració de la tasca
+task('reload:php-fpm', function () {
+    run('sudo /etc/init.d/php8.3-fpm restart');
+    });
 
+
+
+// Hooks
+    # inclusió en el cicle de desplegament
+    after('deploy', 'reload:php-fpm');
 // Hook para compilar activos después de instalar las dependencias
 after('deploy:vendors', 'vite:build');
 after('deploy:failed', 'deploy:unlock');
