@@ -3,13 +3,13 @@
 @section('title', "Guia d'DEPLOYMENTS")
 
 @section('content')
-<h1 class="text-3xl font-bold text-blue-800 mb-6">Guia d'DEPLOYMENTS</h1>
+<h1 class="text-3xl font-bold text-blue-800 mb-6">Guia d'DEPLOYMENTS3</h1>
 <table class="w-full border-collapse border border-gray-300">
     <thead class="bg-gray-200">
     <tr>
-        <th class="border border-gray-300 p-2">DEPLOYMENTS</th>
-        <th class="border border-gray-300 p-2">DEPLOYMENTS</th>
-        <th class="border border-gray-300 p-2">DEPLOYMENTS</th>
+        <th class="border border-gray-300 p-2">DEPLOYMENTS2</th>
+        <th class="border border-gray-300 p-2">DEPLOYMENTS2</th>
+        <th class="border border-gray-300 p-2">DEPLOYMENTS2</th>
     </tr>
     </thead>
     <tbody>
