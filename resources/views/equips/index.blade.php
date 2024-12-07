@@ -7,9 +7,9 @@
 <table class="w-full border-collapse border border-gray-300">
     <thead class="bg-gray-200">
     <tr>
-        <th class="border border-gray-300 p-2">DEPLOYMENTS4</th>
-        <th class="border border-gray-300 p-2">DEPLOYMENTS4</th>
-        <th class="border border-gray-300 p-2">DEPLOYMENTS4</th>
+        <th class="border border-gray-300 p-2">DEPLOYMENTS5</th>
+        <th class="border border-gray-300 p-2">DEPLOYMENTS5</th>
+        <th class="border border-gray-300 p-2">DEPLOYMENTS5</th>
     </tr>
     </thead>
     <tbody>
